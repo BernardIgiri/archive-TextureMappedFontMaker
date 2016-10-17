@@ -1,0 +1,20 @@
+Times New Roman 14
+typeFace.m_typeWidth = 11;
+typeFace.m_typeHeight = 12;
+typeFace.m_lineHeight = 3;
+typeFace.m_charSpacing = 1;
+Times New Roman 16
+typeFace.m_typeWidth = 13;
+typeFace.m_typeHeight = 14;
+typeFace.m_lineHeight = 3;
+typeFace.m_charSpacing = 1;
+Times New Roman 18
+typeFace.m_typeWidth = 14;
+typeFace.m_typeHeight = 15;
+typeFace.m_lineHeight = 3;
+typeFace.m_charSpacing = 1;
+Times New Roman 24
+typeFace.m_typeWidth = 19;
+typeFace.m_typeHeight = 20;
+typeFace.m_lineHeight = 5;
+typeFace.m_charSpacing = 1;
